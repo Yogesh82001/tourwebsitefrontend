@@ -1,0 +1,33 @@
+.footer {
+    background-color: #343a40;
+    color: #ffffff;
+    padding: 40px 0;
+}
+.footer .logo img {
+    max-width: 150px;
+}
+.footer .social-icons a {
+    color: #ffffff;
+    margin-right: 15px;
+    font-size: 20px;
+}
+.footer a {
+    color: #ffffff;
+    text-decoration: none;
+}
+.footer a:hover {
+    text-decoration: underline;
+}
+.footer .copy-right {
+    border-top: 1px solid #555;
+    padding-top: 15px;
+    margin-top: 20px;
+    color: #aaaaaa;
+}
+.img-fluid{
+    max-width: 32%;
+    height: auto;
+}
+.footer .logo img {
+    max-width: 67px;
+}
